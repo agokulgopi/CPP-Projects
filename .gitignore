@@ -1,0 +1,85 @@
+# Compiled Object Files
+*.o
+*.obj
+*.slo
+*.lo
+*.p_o
+*.gch
+*.su
+*.so
+*.so.*
+
+# Executables
+*.exe
+*.out
+*.app
+*.exe.stackdump
+
+# Static libraries
+*.a
+*.lib
+*.la
+*.lai
+
+# Shared libraries
+*.dll
+*.so
+*.dylib
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+Build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator
+*.pro.user
+CMakeLists.txt.user
+
+# Dependency files
+*.d
+*.a.d
+
+# Conan
+conaninfo.txt
+conanbuildinfo.cmake
+
+# MacOS
+.AppleDouble
+.LSOverride
+*.app/
+
+# Linux
+.gdb_history
+core
